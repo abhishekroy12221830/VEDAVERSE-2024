@@ -1,0 +1,7 @@
+1. Interests, career goals, and learning styles
+2. After taking any test (Pearlized feedback for that test how he can improve)
+3. SQL data to fetch the data of the leet code and code-chef + and correct the in the dashboard
+4. Add video conferencing + razor pay in that project 
+5. In Main Page My profile section show case data joined Enery points earned Veiodes complete  some Badege Counts  and 	projets section of your git hib 
+6. A in main page only Your Progress  (days[last 7 days , 15 days ,30 days ] ,[execses , Videos , Ariticals , Quizzes ,Uint test ] )
+7. Adding the video pages like a course to complete it  you can you describe the veio in it .
